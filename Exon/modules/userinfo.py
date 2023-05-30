@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABISHNOI69
+Copyright (c) 2022 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@ SOFTWARE.
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
 # TG :- @Abishnoi1m
 #     UPDATE   :- Abishnoi_bots
-#     GITHUB :- ABISHNOI69 ""
+#     GITHUB :- 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』 ""
 
 
 import datetime
@@ -315,7 +315,7 @@ def info(update: Update, context: CallbackContext):
         if spamwtc:
             text += "\n\n<b>ᴛʜɪs ᴘᴇʀsᴏɴ ɪs sᴘᴀᴍᴡᴀᴛᴄʜᴇᴅ!</b>"
             text += f"\nʀᴇᴀꜱᴏɴ: <pre>{spamwtc.reason}</pre>"
-            text += "\nᴀᴘᴘᴇᴀʟ ᴀᴛ @AbishnoiMF"
+            text += "\nᴀᴘᴘᴇᴀʟ ᴀᴛ @Sreenathbhasi_official"
     except:
         pass  # don't crash if api is down somehow...
 
@@ -517,8 +517,8 @@ def stats(update, context):
             status
             + "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS])
-            + "\n\n[⍙ ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69/ExonRobot) | ⍚\n\n "
-            + "╘══「 by [ᴀʙɪsʜɴᴏɪ](github.com/Abishnoi69) 」\n",
+            + "\n\n[⍙ ɢɪᴛʜᴜʙ](https://github.com/『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』/ExonRobot) | ⍚\n\n "
+            + "╘══「 by [ᴀʙɪsʜɴᴏɪ](github.com/『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』) 」\n",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),
             disable_web_page_preview=True,
@@ -531,9 +531,9 @@ def stats(update, context):
                         "\n*Bot statistics*:\n"
                         + "\n".join(mod.__stats__() for mod in STATS)
                     )
-                    + "\n\n⍙ [ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69/ExonRobot) | ⍚ \n\n"
+                    + "\n\n⍙ [ɢɪᴛʜᴜʙ](https://github.com/『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』/ExonRobot) | ⍚ \n\n"
                 )
-                + "╘══「 by [ᴅʏɴᴀᴍɪᴄ](github.com/Abishnoi69) 」\n"
+                + "╘══「 by [ᴅʏɴᴀᴍɪᴄ](github.com/『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』) 」\n"
             ),
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),

@@ -16,7 +16,7 @@ class Config(object):
     TOKEN = getenv("TOKEN", None)
     OWNER_ID = int(getenv("OWNER_ID", "6184402222"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
     OWNER_USERNAME = getenv("OWNER_USERNAME", "Abishnoi1M")
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "AbishnoiMF")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Sreenathbhasi_official")
     LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001819078701"))
     MONGO_URI = getenv("MONGO_DB_URI")
     REDIS_URL = "redis://default:wK6ZCiclq4iQKYpgfY90v6kd6WdPfEwl@redis-10186.c263.us-east-1-2.ec2.cloud.redislabs.com:10186/default"

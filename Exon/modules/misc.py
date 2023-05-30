@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABISHNOI69
+Copyright (c) 2022 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@ SOFTWARE.
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
 # TG :- @Abishnoi1m
 #     UPDATE   :- Abishnoi_bots
-#     GITHUB :- ABISHNOI69 ""
+#     GITHUB :- 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』 ""
 
 import datetime
 import os
@@ -119,7 +119,7 @@ def markdown_help_sender(update: Update):
 @typing_action
 def src(update, _):
     update.effective_message.reply_text(
-        "Hey there! You can find what makes me click [here](https://github.com/Abishnoi69/ExonRobot).",
+        "Hey there! You can find what makes me click [here](https://github.com/『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』/ExonRobot).",
         parse_mode=ParseMode.MARKDOWN,
         disable_web_page_preview=True,
     )

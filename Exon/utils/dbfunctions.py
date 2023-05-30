@@ -756,7 +756,7 @@ async def add_rss_feed(chat_id: int, url: str, last_title: str):
     )
 
 
-# @Abishnoi69
+# @『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』
 async def remove_rss_feed(chat_id: int):
     return await rssdb.delete_one({"chat_id": chat_id})
 

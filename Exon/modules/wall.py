@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABISHNOI69
+Copyright (c) 2022 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@ SOFTWARE.
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
 # TG :- @Abishnoi1m
 #     UPDATE   :- Abishnoi_bots
-#     GITHUB :- ABISHNOI69 ""
+#     GITHUB :- 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』 ""
 
 import random
 from random import randint
@@ -70,7 +70,7 @@ async def wall(_, msg):
     try:
         await Abishnoi.send_chat_action(msg.chat.id, enums.ChatAction.UPLOAD_PHOTO)
         await msg.reply_photo(
-            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [@ᴀʙɪsʜɴᴏɪᴍғ](t.me/AbishnoiMF)"
+            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [@ᴀʙɪsʜɴᴏɪᴍғ](t.me/Sreenathbhasi_official)"
         )
     # await msg.reply_document(pic, caption=f"🔎 ᴛɪᴛʟᴇ - {title} \n🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {msg.from_user.mention}")
     except Exception as error:

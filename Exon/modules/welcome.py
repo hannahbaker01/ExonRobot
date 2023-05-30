@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABISHNOI69
+Copyright (c) 2022 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@ SOFTWARE.
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
 # TG :- @Abishnoi1m
 #     UPDATE   :- Abishnoi_bots
-#     GITHUB :- ABISHNOI69 ""
+#     GITHUB :- 『 𝑺𝜞𝜩𝜩𝜨𝜦𝜯𝜢 𝜝𝜢𝜜𝑺𝜤 』 ""
 import html
 import random
 import re
@@ -48,7 +48,7 @@ from telegram.utils.helpers import escape_markdown, mention_html, mention_markdo
 import Exon.modules.sql.log_channel_sql as logsql
 import Exon.modules.sql.welcome_sql as sql
 from Exon import DEMONS, DEV_USERS, DRAGONS, LOGGER, OWNER_ID
-from Exon import SUPPORT_CHAT as AbishnoiMF
+from Exon import SUPPORT_CHAT as Sreenathbhasi_official
 from Exon import WOLVES, dispatcher, sw
 from Exon.modules.helper_funcs.anonymous import AdminPerms, user_admin
 from Exon.modules.helper_funcs.chat_status import is_user_ban_protected
@@ -268,7 +268,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome yourself
             elif new_mem.id == bot.id:
                 update.effective_message.reply_text(
-                    f"ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ᴊᴏɪɴ @{AbishnoiMF} ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ.",
+                    f"ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ᴊᴏɪɴ @{Sreenathbhasi_official} ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ.",
                     reply_to_message_id=reply,
                 )
                 continue

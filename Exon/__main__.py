@@ -142,7 +142,7 @@ def send_help(chat_id, text, keyboard=None):
 
     if not keyboard:
         kb = paginate_modules(0, HELPABLE, "help")
-        # kb.append([InlineKeyboardButton(text='sᴜᴘᴘᴏʀᴛ', url='https://t.me/AbishnoiMF'),
+        # kb.append([InlineKeyboardButton(text='sᴜᴘᴘᴏʀᴛ', url='https://t.me/Sreenathbhasi_official'),
         #           InlineKeyboardButton(text='ʙᴀᴄᴋ', callback_data='start_back'),
         #           InlineKeyboardButton(text="ᴛʀʏ ɪɴʟɪɴᴇ", switch_inline_query_current_chat="")])
         keyboard = InlineKeyboardMarkup(kb)
