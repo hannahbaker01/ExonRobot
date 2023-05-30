@@ -72,12 +72,12 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text=f"🚁 ʜᴇʟᴘ 🚁", callback_data="help_back"),
-        InlineKeyboardButton(text=f"🥀 sᴛᴀᴛs 🥀", callback_data="stats_callback"),
+        InlineKeyboardButton(text=f"ʜᴇʟᴘ", callback_data="help_back"),
+        InlineKeyboardButton(text=f"sᴛᴀᴛs", callback_data="stats_callback"),
     ],
     [
-        InlineKeyboardButton(text="🏡 ᴀʙᴏᴜᴛ 🏡", callback_data="ABG_"),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="ABG_"),
+        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
@@ -264,9 +264,9 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("🎊")
+            lol.edit_text("💋")
             time.sleep(0.5)
-            lol.edit_text("⚡")
+            lol.edit_text("🤡")
             time.sleep(0.3)
             lol.edit_text("ꜱᴛᴀʀᴛɪɴɢ... ")
             time.sleep(0.4)
