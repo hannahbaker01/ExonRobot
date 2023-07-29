@@ -14,8 +14,8 @@ class Config(object):
     SPAMWATCH_API = None
     TOKEN = getenv("TOKEN", None)
     OWNER_ID = int(getenv("OWNER_ID", 5938660179))
-    OWNER_USERNAME = getenv("OWNER_USERNAME", "Abishnoi1M")
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "AbishnoiMF")
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "Sreenathbhasi_official")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Sreenathbhasi_official")
     LOGGER_ID = int(getenv("LOGGER_ID", "-1001819078701"))
     MONGO_URI = getenv("MONGO_DB_URI", None)
     DB_NAME = getenv("DB_NAME", "ExonRobot")

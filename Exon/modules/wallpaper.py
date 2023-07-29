@@ -23,7 +23,7 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @Abishnoi1m
+# TG :- @Sreenathbhasi_official
 #     UPDATE   :- Abishnoi_bots
 #     GITHUB :- ABISHNOI69 ""
 
@@ -70,7 +70,7 @@ async def wallpaper(_, msg):
     try:
         await Abishnoi.send_chat_action(msg.chat.id, enums.ChatAction.UPLOAD_PHOTO)
         await msg.reply_photo(
-            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [@ᴀʙɪsʜɴᴏɪᴍғ](t.me/AbishnoiMF)"
+            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [@ᴀʙɪsʜɴᴏɪᴍғ](t.me/Sreenathbhasi_official)"
         )
     # await msg.reply_document(pic, caption=f"🔎 ᴛɪᴛʟᴇ - {title} \n🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {msg.from_user.mention}")
     except Exception as error:

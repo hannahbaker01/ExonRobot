@@ -17,8 +17,8 @@
 
 ## ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴇxᴏɴ ʀᴏʙᴏᴛ
 - [ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69)
-- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/Abishnoi1M)
-- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/AbishnoiMF)
+- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/Sreenathbhasi_official)
+- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/Sreenathbhasi_official)
 
 ## ɪɴғᴏ 
 *ᴛʜɪs ɪs ᴇxᴏɴ ʀᴏʙᴏᴛ ,ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
@@ -33,4 +33,4 @@
 
 ᴇxᴏɴ ʀᴏʙᴏᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Abishnoi69/ExonRobot/blob/master/LICENSE).
 
-© 2022 - 2023 [@ᴀʙɪsʜɴᴏɪᴍғ](https://t.me/AbishnoiMF), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ
+© 2022 - 2023 [@ᴀʙɪsʜɴᴏɪᴍғ](https://t.me/Sreenathbhasi_official), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ

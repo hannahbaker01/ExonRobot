@@ -347,7 +347,7 @@ def capture_err(func):
     return capture
 
 
-# @Abishnoi1M
+# @Sreenathbhasi_official
 
 
 async def member_permissions(chat_id, user_id):

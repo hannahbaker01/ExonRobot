@@ -57,9 +57,9 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. https://t.me/Abishnoi1M.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. https://t.me/Sreenathbhasi_official.
 
-[Reporting guidelines](https://t.me/AbishnoiMF)
+[Reporting guidelines](https://t.me/Sreenathbhasi_official)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -77,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-https://t.me/Abishnoi1M
+https://t.me/Sreenathbhasi_official
 
 ## 11. License and attribution
 
